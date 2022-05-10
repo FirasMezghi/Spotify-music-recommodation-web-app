@@ -10,7 +10,7 @@ with open("secret.txt") as f:
         cid = str(secret_ls[0])
         secret = str(secret_ls[1])
 cid="879ddc6c44d54b92926465b1894ebea0"
-secret="a2801b7cb60947e2bb81a034bb0d2dd4"
+secret="****************************"#put secret here
 
 
 def ari_to_features(ari):
